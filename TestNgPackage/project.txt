@@ -1,0 +1,19 @@
+instruction of last project
+choose company from fortune 500 commerce site
+check company has qa team and corporate office
+if yes then compare with three other competitor
+check what service or productline they have but u do not have 
+that will consider as your last project.
+
+
+q1: what is company all about
+Ans: 3 line
+q2: how your new module work
+ans: 6 line
+q3: how you tested:
+ans: 25 line
+q4: what framework you have used?
+ans: 3 line
+q5: what environment u used?
+ans: 3 line
+q6: write 5 test case sample in confluence page

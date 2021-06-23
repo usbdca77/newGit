@@ -1,0 +1,26 @@
+<suite name= "suit1" parallel="methods">
+
+<!-- methods > tests> classes> instance --> 
+
+<listners>
+<listner class-name="listt.BaseListner"></listner>
+
+</listners>
+<test name="test1" >
+
+
+<!--  <parameter name="browser" value="chrome"></parameter>
+<parameter name="url" value="https://www.google.com/"></parameter> -->
+
+<classes>
+<class name="com.SmokeTest"></class>
+<class name="com.regressionTest"></class>
+
+
+</classes>
+
+</test>
+
+
+
+</suite>
